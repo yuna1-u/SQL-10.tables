@@ -1,0 +1,40 @@
+CREATE TABLE one
+(
+
+);
+CREATE TABLE two
+(
+
+);
+CREATE TABLE three
+(
+
+);
+CREATE TABLE four
+(
+
+);
+CREATE TABLE five
+(
+
+);
+CREATE TABLE six
+(
+
+);
+CREATE TABLE seven
+(
+
+);
+CREATE TABLE eight
+(
+
+);
+CREATE TABLE nine
+(
+
+);
+CREATE TABLE ten
+(
+
+);
